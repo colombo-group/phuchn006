@@ -1,0 +1,45 @@
+.header{
+	background:#014A84; 
+	margin-left:0; 
+	line-height:40px;
+}
+.header .content{
+	margin-left:900px; 
+	color:white;
+}
+.header .content a{
+	color: white;
+	text-decoration: none;
+	font-family: Arial;
+}
+.list{
+	color: black;
+	background: white;
+}
+#menu{
+	background: #DDDDDD;
+	width: 150px;
+	display: none;
+	margin-left: 1035px;
+}
+#menu a{
+	text-decoration: none;
+	color: black;
+}
+#menu a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+	color:blue;
+}
+a:hover{
+	color: #014A84;
+	text-decoration: underline;
+}
+a img{
+	border: 1px solid white;
+}
+a img:hover{
+	border: 1px solid black;
+}
